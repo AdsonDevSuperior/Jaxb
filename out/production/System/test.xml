@@ -1,0 +1,13 @@
+<!--<?xml version="1.0" encoding="UTF-8" ?>-->
+<!--<sales moeda="Dollar" xsi:noNamespace="test.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">-->
+<!--    <payment>Debito</payment>-->
+<!--        <produtos>-->
+<!--            <produto>-->
+<!--                <name>Camiseta jeans</name>-->
+<!--                <preco>45.90</preco>-->
+<!--            </produto><produto>-->
+<!--                <name>Camiseta polo</name>-->
+<!--                <preco>79.90</preco>-->
+<!--            </produto>-->
+<!--        </produtos>-->
+<!--</sales>-->
